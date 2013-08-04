@@ -1,0 +1,57 @@
+{
+  [start]
+	This [adj] [noun] [verb] [prep] [place] ;
+}
+
+{
+	[adj]
+	[adj] [adj] ;
+	young ;
+	lovely ;
+	wild ;
+	spirited ;
+}
+
+{
+	[noun]
+	lady ;
+	girl ;
+	rat ;
+	fellow ;
+	person ;
+	scoundrel ;
+}
+
+{
+	[verb]
+	[adv] [verb] ;
+	slept ;
+	ate ;
+	drank ;
+	jumped ;
+}
+
+{
+	[adv]
+	fiercely ;
+	swiftly ;
+	daringly ;
+	quickly ;
+}
+
+{
+	[prep]
+	under ;
+	on top of ;
+	next to ;
+	beside ;
+	near ;
+}
+
+{
+	[place]
+	the bed ;
+	the balcony ;
+	the kitchen ;
+	the grove ;
+}
